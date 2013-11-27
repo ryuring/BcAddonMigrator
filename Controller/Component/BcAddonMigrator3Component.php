@@ -4,6 +4,7 @@
  */
 App::uses('Component', 'Controller');
 
+
 /**
  * BcAddonMigrator3Component
  */
